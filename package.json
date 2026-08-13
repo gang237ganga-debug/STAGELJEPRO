@@ -1,0 +1,7 @@
+{
+  "name": "lje-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"start": "npx serve .", "check": "node --check service-worker.js"},
+  "devDependencies": {"serve": "^14.2.4"}
+}
